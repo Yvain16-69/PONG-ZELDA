@@ -1,10 +1,10 @@
 # Encore un pong
 
-https://davidmarsprof.github.io/pong-wimbledon/
+https://yvain16-69.github.io/PONG-ZELDA/.
 
 Pour jouer...
 
-### Rafael
+### Ganondorf
 touches A / Q 
-### Roger
+### Link
 touches P / M 
