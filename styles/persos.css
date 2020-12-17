@@ -47,20 +47,20 @@
     margin-top: 2vmin;
 }
 #perso9{
-    width: 45 px;
-    height: 45 px;
+    width: 120 px;
+    height: 120 px;
     background-image: url("./skins/wimbledon/public/9.png");
     margin-top:8vmin;
 }
 #perso10{
-    width: 45 px;
-    height: 45 px;
+    width: 120 px;
+    height: 120 px;
     background-image: url("./skins/wimbledon/public/10.png");
     animation-duration: 3s;
 }
 #perso11{
-    width: 45 px;
-    height: 45 px;
+    width: 120 px;
+    height: 120 px;
     background-image: url("./skins/wimbledon/public/11.png");
     margin-top: 3vmin;
 }
